@@ -1,0 +1,11 @@
+{
+  "app:open-settings": [],
+  "app:go-back": [],
+  "workspace:close-window": [],
+  "switcher:open": [],
+  "app:go-forward": [],
+  "markdown:toggle-preview": [],
+  "editor:toggle-checklist-status": [],
+  "editor:delete-paragraph": [],
+  "workspace:new-tab": []
+}

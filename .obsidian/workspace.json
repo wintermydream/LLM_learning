@@ -1,0 +1,248 @@
+{
+  "main": {
+    "id": "574a860e61c6e1bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "36dff0da1d1a2f3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86f01582bdd69822",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LLM/09-大模型SFT技术--探索大模型指令遵循能力.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "09-大模型SFT技术--探索大模型指令遵循能力"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "313d2796760546b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "8cf85c27dfdcddfe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00cb0b94630f440f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "75efe703f0a023a0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "a716cf7b837d02f6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 654.5041885375977
+  },
+  "right": {
+    "id": "3f8afceb1d9d6401",
+    "type": "split",
+    "children": [
+      {
+        "id": "6186327d74e82eef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "916c1268c5c96699",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "R-阅读/Circuit mechanisms for the maintenance and manipulation of information in working memory.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Circuit mechanisms for the maintenance and manipulation of information in working memory 的反向链接列表"
+            }
+          },
+          {
+            "id": "3150f409d16c878f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "R-阅读/Circuit mechanisms for the maintenance and manipulation of information in working memory.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Circuit mechanisms for the maintenance and manipulation of information in working memory 的出链列表"
+            }
+          },
+          {
+            "id": "a280a57257b1d8e1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "d0555bbd4bbc7190",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "R-阅读/Back to the Continuous Attractor.md",
+                "followCursor": false,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Back to the Continuous Attractor 的大纲"
+            }
+          },
+          {
+            "id": "dee6272115603bc6",
+            "type": "leaf",
+            "state": {
+              "type": "journal-calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          },
+          {
+            "id": "0bd868a65c7d2bab",
+            "type": "leaf",
+            "state": {
+              "type": "journal-calendar",
+              "state": {},
+              "icon": "calendar-days",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 609.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "command-palette:打开命令面板": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
+    }
+  },
+  "active": "00cb0b94630f440f",
+  "lastOpenFiles": [
+    "镜像制作.md",
+    "跑通模型.md",
+    "训练pipline.md",
+    "种子班进度.md",
+    "模型.md",
+    "数据集.md",
+    "基础.md",
+    "南湖调度系统.md",
+    "使用问题.md",
+    "linux脚本.md",
+    "images/jCPemE1Xw-nnbptI_8SzfumEywgnGbLKl2FCr89v7yw.png",
+    "images/Pr3bYiAonYvxdVUokXP9j7Q9vntl_AubE2aOFWOiBrY.png",
+    "images",
+    "data-juicer.md",
+    "all_urls_clean.txt",
+    "all_urls.txt",
+    "SFT/炼石成丹：大语言模型微调实战系列（二）模型微调篇.md",
+    "SFT/炼石成丹：大语言模型微调实战系列（三）模型评估篇.md",
+    "SFT/炼石成丹：大语言模型微调实战系列（一）数据准备篇.md",
+    "SFT/大语言模型微调全流程指南.md",
+    "SFT",
+    "Pretraining参数设置预训练.md",
+    "Dolma教程-数据格式.md",
+    "Dolma教程-安装.md",
+    "Dolma教程-deduplicate.md",
+    "Dolma教程-Tokenizer.md",
+    "Dolma教程-Taggers.md",
+    "Dolma教程-Mixer.md",
+    "Docker脚本探索.md",
+    "Docker教程.md",
+    "Docker使用-以data-juicer为例.md",
+    "11-探索大模型的逻辑推理.md",
+    "picture/Pasted image 20250508115000.png",
+    "picture/Pasted image 20250508114213.png",
+    "picture/Pasted image 20250508114149.png",
+    "picture/Pasted image 20250508113918.png",
+    "picture/Pasted image 20250508113856.png",
+    "picture/Pasted image 20250508113820.png",
+    "picture/Pasted image 20250508113753.png",
+    "picture/Pasted image 20250508113721.png",
+    "LLM/images",
+    "LLM",
+    "picture",
+    "记忆流形.md.baiduyun.uploading.cfg",
+    "().md.baiduyun.uploading.cfg",
+    "未命名.md.baiduyun.uploading.cfg",
+    "未命名.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "574a860e61c6e1bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "0719c66e7acb1f6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7362b03938276e66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dynamical mean-field theory for heterogeneous neural networks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dynamical mean-field theory for heterogeneous neural networks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "313d2796760546b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "8cf85c27dfdcddfe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00cb0b94630f440f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "75efe703f0a023a0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "a716cf7b837d02f6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 226.5
+  },
+  "right": {
+    "id": "3f8afceb1d9d6401",
+    "type": "split",
+    "children": [
+      {
+        "id": "6186327d74e82eef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "916c1268c5c96699",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "R-阅读/Circuit mechanisms for the maintenance and manipulation of information in working memory.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Circuit mechanisms for the maintenance and manipulation of information in working memory 的反向链接列表"
+            }
+          },
+          {
+            "id": "3150f409d16c878f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "R-阅读/Circuit mechanisms for the maintenance and manipulation of information in working memory.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Circuit mechanisms for the maintenance and manipulation of information in working memory 的出链列表"
+            }
+          },
+          {
+            "id": "a280a57257b1d8e1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "d0555bbd4bbc7190",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Dynamical mean-field theory for heterogeneous neural networks.md",
+                "followCursor": false,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Dynamical mean-field theory for heterogeneous neural networks 的大纲"
+            }
+          },
+          {
+            "id": "dee6272115603bc6",
+            "type": "leaf",
+            "state": {
+              "type": "journal-calendar",
+              "state": {},
+              "icon": "calendar-days",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 609.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "command-palette:打开命令面板": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
+    }
+  },
+  "active": "7362b03938276e66",
+  "lastOpenFiles": [
+    "改图250320.md.baiduyun.uploading.cfg",
+    "R-阅读/问题在于将正确的数据传递给正确的人。.md.baiduyun.uploading.cfg",
+    "R-阅读/精读系列-《有限与无限的游戏》.md.baiduyun.uploading.cfg",
+    "R-阅读/Transient Delay-Period Activity of Agranular Insular Cortex Controls Working Memory Maintenance in Learning Novel Tasks.md.baiduyun.uploading.cfg",
+    "R-阅读/Temporally coherent perturbation of neural dynamics during retention alters human multi-item working memory.md.baiduyun.uploading.cfg",
+    "R-阅读/State-dependent computations spatiotemporal processing in cortical networks.md.baiduyun.uploading.cfg",
+    "R-阅读/Stability of working memory in continuous attractor networks under the control of short-term plasticity.md.baiduyun.uploading.cfg",
+    "R-阅读/Persistence of neuronal representations through time and damage in the hippocampus.md.baiduyun.uploading.cfg",
+    "R-阅读/Optimizing Working Memory with Heterogeneity of Recurrent Cortical Excitation.md.baiduyun.uploading.cfg",
+    "R-阅读/Circuit mechanisms for the maintenance and manipulation of information in working memory.md.baiduyun.uploading.cfg",
+    "R-阅读/Back to the Continuous Attractor.md.baiduyun.uploading.cfg",
+    "感觉皮层编码保真度的基本限制.md",
+    "Learning and attention reveal a general relationship between population activity and behavior.md",
+    "Dynamical mean-field theory for heterogeneous neural networks.md",
+    "R-阅读/State-dependent computations spatiotemporal processing in cortical networks.md",
+    "改图250320.md",
+    "R-阅读/Circuit mechanisms for the maintenance and manipulation of information in working memory.md",
+    "R-阅读/Back to the Continuous Attractor.md",
+    "R-阅读/问题在于将正确的数据传递给正确的人。.md",
+    "R-阅读/Temporally coherent perturbation of neural dynamics during retention alters human multi-item working memory.md",
+    "R-阅读/Transient Delay-Period Activity of Agranular Insular Cortex Controls Working Memory Maintenance in Learning Novel Tasks.md",
+    "R-阅读/Stability of working memory in continuous attractor networks under the control of short-term plasticity.md",
+    "R-阅读/Optimizing Working Memory with Heterogeneity of Recurrent Cortical Excitation.md",
+    "R-阅读/Persistence of neuronal representations through time and damage in the hippocampus.md",
+    "R-阅读/PRX 速递：遗忘导致吸引子网络的混沌.md",
+    "R-阅读/精读系列-《有限与无限的游戏》.md",
+    "I-理解/有限与无限的游戏.md",
+    "2025-03-04.md",
+    "未命名.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
+  ]
+}

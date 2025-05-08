@@ -1,0 +1,22 @@
+{
+  "collapse-filter": false,
+  "search": "path:R-阅读  ",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -2.7,
+  "nodeSizeMultiplier": 0.878385416666667,
+  "lineSizeMultiplier": 1.10807291666667,
+  "collapse-forces": false,
+  "centerStrength": 0.403645833333333,
+  "repelStrength": 11.09375,
+  "linkStrength": 0.6171875,
+  "linkDistance": 298,
+  "scale": 0.7132754626224513,
+  "close": false
+}
